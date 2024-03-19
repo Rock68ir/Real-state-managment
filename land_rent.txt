@@ -1,0 +1,4 @@
+id : 15 ,type : 6 ,activity_status : on ,District : 12 ,Address : karaj_azimie
+ ,Building type : 2 ,Construct permition : 1 ,Accessibility : 3 ,Distance from city : 0 ,Area : 70 ,owner contact : 09209999997 ,Mortgage price : 45000000 ,Rent price : 10000000000 ,Submitted by : admin ,Submit time : 1705771431 ,Archive time : 1706892419 ,Archive user : test
+id : 24 ,type : 6 ,activity_status : on ,District : 13 ,Address : Londonderry 4041 Elsie Drive
+ ,Building type : 1 ,Construct permition : 1 ,Accessibility : 2 ,Distance from city : 6 ,Area : 400 ,owner contact : 09635421578 ,Mortgage price : 12000000 ,Rent price : 5000000000 ,Submitted by : test ,Submit time : 1706890935 ,Archive time : 1706940915 ,Archive user : admin

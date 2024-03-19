@@ -1,0 +1,6 @@
+id : 22 ,type : 4 ,activity_status : of ,District : 3 ,Address : karaj deghan villa khiaban nohom
+ ,Building type : 2 ,Age : 13 ,Built area : 50 ,Floor : 4 ,Area : 110 ,Parking lot : 1 ,Depot : 1 ,Elevator : 1 ,Air conditioning system : 4 ,Accessibility : 3 ,Rooms : 3 ,owner contact : 09213256654 ,Mortgage price : 10000000 ,Rent price : 120000000 ,Submitted by : aa68 ,Submit time : 1706871048 ,Archive time : 1706878088 ,Archive user : test
+id : 24 ,type : 4 ,activity_status : on ,District : 12 ,Address : as
+ ,Building type : 2 ,Age : 3 ,Built area : 21 ,Floor : 3 ,Area : 123 ,Parking lot : 1 ,Depot : 2 ,Elevator : 2 ,Air conditioning system : 1 ,Accessibility : 1 ,Rooms : 4 ,owner contact : 09123251369 ,Mortgage price : 1000000 ,Rent price : 150000000 ,Submitted by : admin ,Submit time : 1706879378 ,Archive time : 1706879378 ,Archive user : NaN
+id : 24 ,type : 4 ,activity_status : on ,District : 2 ,Address : Malone 3858 Sussex Court
+ ,Building type : 2 ,Age : 7 ,Built area : 40 ,Floor : 2 ,Area : 75 ,Parking lot : 2 ,Depot : 1 ,Elevator : 2 ,Air conditioning system : 2 ,Accessibility : 3 ,Rooms : 3 ,owner contact : 09213221546 ,Mortgage price : 12000000 ,Rent price : 150000000 ,Submitted by : test ,Submit time : 1706879822 ,Archive time : 1706879822 ,Archive user : NaN

@@ -1,0 +1,8 @@
+id : 11 ,type : 3 ,activity_status : on ,District : 4 ,Address : karaj_faz4_khiaban_122
+ ,Building type : 2 ,Construct permition : 1 ,Accessibility : 1 ,Distance from city : 5 ,Area : 100 ,owner contact : 09322221451 ,Sell price : 1000000000 ,Sell price meter: 10000000 ,Submitted by : admin ,Submit time : 1705764167 ,Archive time : 1705398014 ,Archive user : NaN
+id : 18 ,type : 3 ,activity_status : of ,District : 3 ,Address : 4xz
+ ,Building type : 2 ,Construct permition : 1 ,Accessibility : 2 ,Distance from city : 321 ,Area : 100 ,owner contact : 123 ,Sell price : 321 ,Sell price meter: 321 ,Submitted by : aa68 ,Submit time : 1706211747 ,Archive time : 1706871810 ,Archive user : aa68
+id : 24 ,type : 3 ,activity_status : on ,District : 7 ,Address : San Dimas 1330 Clarence Court
+ ,Building type : 2 ,Construct permition : 1 ,Accessibility : 2 ,Distance from city : 10Km ,Area : 150 ,owner contact : 09845762358 ,Sell price : 150000000 ,Sell price meter: 1200000 ,Submitted by : test ,Submit time : 1706887071 ,Archive time : 1706889390 ,Archive user : test
+id : 25 ,type : 3 ,activity_status : on ,District : 2 ,Address : Lockport 1836 Arthur Avenue
+ ,Building type : 1 ,Construct permition : 2 ,Accessibility : 2 ,Distance from city : 10 ,Area : 1000 ,owner contact : 09452153689 ,Sell price : 1200000000 ,Sell price meter: 1200000 ,Submitted by : guy ,Submit time : 1706895768 ,Archive time : 1706895768 ,Archive user : NaN

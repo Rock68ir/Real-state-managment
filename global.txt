@@ -1,0 +1,3 @@
+id : 25
+attempts : 0
+bantime : 0

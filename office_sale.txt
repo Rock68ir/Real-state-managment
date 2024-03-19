@@ -1,0 +1,4 @@
+id : 12 ,type : 2 ,activity_status : on ,District : 12 ,Address : karaj_derakhti_pelak_32
+ ,Building type : 1 ,Age : 15 ,Built area : 50 ,Floor : 7 ,Area : 50 ,Parking lot : 2 ,Depot : 2 ,Elevator : 1 ,Air conditioning system : 4 ,Accessibility : 3 ,Rooms : 4 ,owner contact : 09212221234 ,Sell price meter : 4500000 ,Sell price : 2550000000 ,Submitted by : admin ,Submit time : 1705764096 ,Archive time : 1706895144 ,Archive user : NaN
+id : 25 ,type : 2 ,activity_status : on ,District : 12 ,Address : West Liberty 250 Pyramid Valley Road
+ ,Building type : 1 ,Age : 13 ,Built area : 80 ,Floor : 5 ,Area : 95 ,Parking lot : 1 ,Depot : 1 ,Elevator : 1 ,Air conditioning system : 4 ,Accessibility : 3 ,Rooms : 6 ,owner contact : 09685478523 ,Sell price meter : 10000000 ,Sell price : 150000000 ,Submitted by : admin ,Submit time : 1706895144 ,Archive time : 1706895144 ,Archive user : NaN

@@ -1,0 +1,4 @@
+id : 25 ,type : 5 ,activity_status : of ,District : 12 ,Address : 2033 Raintree Boulevard
+ ,Building type : 2 ,Age : 12 ,Built area : 150 ,Floor : 100 ,Area : 150 ,Parking lot : 1 ,Depot : 1 ,Elevator : 1 ,Air conditioning system : 3 ,Accessibility : 1 ,Rooms : 10 ,owner contact : 09546523258 ,Mortgage price : 12000000 ,Rent price : 15000000000 ,Submitted by : golab ,Submit time : 1706900299 ,Archive time : 1706900432 ,Archive user : golab
+id : 26 ,type : 5 ,activity_status : on ,District : 1 ,Address : 3871 Rinehart Road
+ ,Building type : 2 ,Age : 13 ,Built area : 250 ,Floor : 1 ,Area : 300 ,Parking lot : 1 ,Depot : 1 ,Elevator : 1 ,Air conditioning system : 4 ,Accessibility : 3 ,Rooms : 12 ,owner contact : 09874521658 ,Mortgage price : 30000000 ,Rent price : 12000000000 ,Submitted by : golab ,Submit time : 1706900409 ,Archive time : 1706900409 ,Archive user : NaN
